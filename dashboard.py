@@ -16,6 +16,7 @@ def get_standings_dataframe(league_id, season):
         return pd.DataFrame()
 
 @app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET', 'POST'])
 def index():
     league_id = 39  # Default to EPL
     season = 2022   # Default to 2022
@@ -26,9 +27,12 @@ def index():
     df = get_standings_dataframe(league_id, season)
 
     if not df.empty:
-        return render_template('index.html', tables=[df.to_html(classes='data')], titles=df.columns.values, league_id=league_id, season=season)
+        # Ensure proper conversion to HTML
+        html_table = df.to_html(classes='table table-striped table-hover', index=False)
+        return render_template('index.html', tables=html_table, titles=df.columns.values, league_id=league_id, season=season)
     else:
         return "<h1>No standings data available</h1>"
+
 
 if __name__ == '__main__':
     app.run(debug=True)
