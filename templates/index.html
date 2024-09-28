@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Football Standings</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        body {
+            padding-top: 40px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        form {
+            margin-bottom: 30px;
+        }
+        .table-responsive {
+            max-width: 90%;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Football Standings</h1>
+
+        <!-- Form for League and Season Selection -->
+        <form method="POST" class="row justify-content-center">
+            <div class="form-group col-md-4">
+                <label for="league">Select League</label>
+                <select class="form-control" id="league" name="league">
+                    <option value="39" {% if league_id == 39 %}selected{% endif %}>English Premier League</option>
+                    <option value="140" {% if league_id == 140 %}selected{% endif %}>La Liga</option>
+                    <option value="135" {% if league_id == 135 %}selected{% endif %}>Serie A</option>
+                </select>
+            </div>
+
+            <div class="form-group col-md-4">
+                <label for="season">Select Season</label>
+                <select class="form-control" id="season" name="season">
+                    <option value="2020" {% if season == 2020 %}selected{% endif %}>2020</option>
+                    <option value="2021" {% if season == 2021 %}selected{% endif %}>2021</option>
+                    <option value="2022" {% if season == 2022 %}selected{% endif %}>2022</option>
+                </select>
+            </div>
+
+            <div class="form-group col-md-2 align-self-end">
+                <button type="submit" class="btn btn-primary btn-block">Get Standings</button>
+            </div>
+        </form>
+
+        <!-- Table for displaying standings -->
+        {% if tables %}
+        <div class="table-responsive">
+            {{ tables|safe }}
+        </div>
+        {% else %}
+        <p class="text-center">No standings data available for the selected league and season.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
