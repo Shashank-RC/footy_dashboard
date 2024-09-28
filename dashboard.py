@@ -11,10 +11,8 @@ def get_standings_dataframe(league_id, season):
         df = pd.DataFrame(standings)
         df['team'] = df['team'].apply(lambda x: x['name'])  # Extract team name
         df = df[['rank', 'team', 'points', 'goalsDiff']]
-        print(df)  # Debugging: Print the DataFrame to the console
         return df
     else:
-        print("No data available or API returned an error.")
         return pd.DataFrame()
 
 @app.route('/', methods=['GET', 'POST'])
@@ -28,8 +26,6 @@ def index():
     df = get_standings_dataframe(league_id, season)
 
     if not df.empty:
-        # Debugging: Print the HTML table being rendered
-        print(df.to_html(classes='data'))
         return render_template('index.html', tables=[df.to_html(classes='data')], titles=df.columns.values, league_id=league_id, season=season)
     else:
         return "<h1>No standings data available</h1>"
