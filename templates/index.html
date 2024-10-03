@@ -5,13 +5,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Football Standings</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+    <style>
+        body {
+            padding-top: 40px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        form {
+            margin-bottom: 30px;
+        }
+        .table-responsive {
+            max-width: 90%;
+            margin: 0 auto;
+        }
+        img {
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+        .btn-primary {
+            margin-top: 10px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
-        <h1 class="mt-5">Football Standings</h1>
+        <h1>Football Standings</h1>
+
+        <!-- Display error message if available -->
+        {% if error_message %}
+        <div class="alert alert-danger" role="alert">
+            {{ error_message }}
+        </div>
+        {% endif %}
 
         <!-- Form for League and Season Selection -->
-        <form method="POST" class="row justify-content-center">
+        <form method="POST" class="row justify-content-center" id="standings-form">
             <div class="form-group col-md-4">
                 <label for="league">Select League</label>
                 <select class="form-control" id="league" name="league">
@@ -44,5 +75,9 @@
         <p class="text-center">No standings data available for the selected league and season.</p>
         {% endif %}
     </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
 </html>
