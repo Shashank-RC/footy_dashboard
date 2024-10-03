@@ -8,47 +8,51 @@ load_dotenv()
 # API Key
 API_KEY = os.getenv('FOOTBALL_API_KEY')
 
-if not API_KEY:
-    print("API key is missing! Make sure it's set correctly in your .env file.")
-else:
-    print("API key loaded successfully.")
-
-BASE_URL = "https://v3.football.api-sports.io/"
+# In-memory cache to store API responses
+cache = {}
 
 def get_standings(league_id, season):
-    url = f"{BASE_URL}standings?league={league_id}&season={season}"
+    cache_key = f"{league_id}_{season}"
+
+    # Serve from cache if data exists
+    if cache_key in cache:
+        print(f"Serving from cache for {league_id} - {season}")
+        return cache[cache_key]
+
+    # API request if not cached
+    url = f"https://v3.football.api-sports.io/standings?league={league_id}&season={season}"
     headers = {
         'x-apisports-key': API_KEY
     }
-    print(f"Making request to API for league {league_id} and season {season}...")
 
+    print(f"Making request to API for league {league_id} and season {season}...")
     try:
         response = requests.get(url, headers=headers)
 
         if response.status_code == 200:
             data = response.json()
-            if 'errors' in data and data['errors']:
-                print(f"API returned an error: {data['errors']}")
-                return None
-            print("API request successful!")
-            return data  # Return the response as JSON
+
+            if 'response' in data and data['response']:
+                cache[cache_key] = data  # Cache the response
+                return data
+            else:
+                print("API returned no data for the selected league and season.")
+                return {"error": "No data available for this selection."}
+        elif response.status_code == 429:
+            print("API rate limit exceeded.")
+            return {"error": "API rate limit exceeded. Please try again later."}
+        elif response.status_code == 401:
+            print("Invalid API key.")
+            return {"error": "Invalid API key. Please check your API key."}
         else:
-            print(f"Error: {response.status_code} - {response.text}")
-            return None
+            print(f"API returned an error: {response.status_code}")
+            return {"error": f"API error: {response.status_code}"}
+    
     except requests.RequestException as e:
         print(f"Request failed: {e}")
-        return None
+        return {"error": "An error occurred while fetching data. Please try again."}
 
-# Test the API connection by fetching EPL standings for 2022
-if __name__ == "__main__":
-    print("Testing API connection...")
-
-    league_id = 39  # EPL ID
-    season = 2022   # Free plan allows up to 2022 season
-    data = get_standings(league_id, season)
-
-    # Print the raw data to inspect the structure
-    if data:
-        print("Raw API response:", data)
-    else:
-        print("No data returned from API or an error occurred.")
+def clear_cache():
+    global cache
+    cache = {}
+    print("Cache cleared.")
