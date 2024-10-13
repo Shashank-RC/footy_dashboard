@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Football Standings</title>
+    <title>Football Standings, Live Scores, and Fixtures</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
     <style>
@@ -12,9 +12,6 @@
         }
         h1 {
             text-align: center;
-            margin-bottom: 30px;
-        }
-        form {
             margin-bottom: 30px;
         }
         .table-responsive {
@@ -28,11 +25,16 @@
         .btn-primary {
             margin-top: 10px;
         }
+        .section-title {
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Football Standings</h1>
+        <h1>Football Standings, Live Scores, and Fixtures</h1>
 
         <!-- Display error message if available -->
         {% if error_message %}
@@ -62,18 +64,54 @@
             </div>
 
             <div class="form-group col-md-2 align-self-end">
-                <button type="submit" class="btn btn-primary btn-block">Get Standings</button>
+                <button type="submit" class="btn btn-primary btn-block">Get Data</button>
             </div>
         </form>
 
-        <!-- Table for displaying standings -->
-        {% if tables %}
-        <div class="table-responsive">
-            {{ tables|safe }}
+        <!-- Tabbed navigation for Standings and Live Scores/Fixtures -->
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" id="standings-tab" data-toggle="tab" href="#standings" role="tab" aria-controls="standings" aria-selected="true">Standings</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="live-scores-tab" data-toggle="tab" href="#live-scores" role="tab" aria-controls="live-scores" aria-selected="false">Live Scores & Fixtures</a>
+            </li>
+        </ul>
+
+        <div class="tab-content" id="myTabContent">
+            <!-- Standings Tab -->
+            <div class="tab-pane fade show active" id="standings" role="tabpanel" aria-labelledby="standings-tab">
+                <h2 class="section-title">Standings</h2>
+                {% if standings %}
+                <div class="table-responsive">
+                    {{ standings|safe }}
+                </div>
+                {% else %}
+                <p class="text-center">No standings data available for the selected league and season.</p>
+                {% endif %}
+            </div>
+
+            <!-- Live Scores & Fixtures Tab -->
+            <div class="tab-pane fade" id="live-scores" role="tabpanel" aria-labelledby="live-scores-tab">
+                <h2 class="section-title">Live Scores</h2>
+                {% if live_scores %}
+                <div class="table-responsive">
+                    {{ live_scores|safe }}
+                </div>
+                {% else %}
+                <p class="text-center">No live matches at the moment.</p>
+                {% endif %}
+
+                <h2 class="section-title">Upcoming/Past Fixtures</h2>
+                {% if fixtures %}
+                <div class="table-responsive">
+                    {{ fixtures|safe }}
+                </div>
+                {% else %}
+                <p class="text-center">No fixtures available for the selected league and season.</p>
+                {% endif %}
+            </div>
         </div>
-        {% else %}
-        <p class="text-center">No standings data available for the selected league and season.</p>
-        {% endif %}
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
