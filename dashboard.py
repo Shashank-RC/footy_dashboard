@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from apisetup import get_standings, get_live_scores, get_fixtures
+from apisetup import get_standings, get_live_scores, get_fixtures, search_player_by_name, get_team_data
 import pandas as pd
 
 app = Flask(__name__)
@@ -60,6 +60,31 @@ def transform_fixtures(data):
     df = pd.DataFrame(fixtures)
     return df
 
+# Route for player search
+@app.route('/players', methods=['GET', 'POST'])
+def search_players():
+    player_data = None
+    error_message = None
+
+    if request.method == 'POST':
+        player_name = request.form['player_name']
+        player_data = search_player_by_name(player_name)
+
+        if 'error' in player_data:
+            error_message = player_data['error']
+            player_data = None
+
+    return render_template('players.html', player_data=player_data, error_message=error_message)
+
+# Route for team data
+@app.route('/teams', methods=['GET'])
+def team_data():
+    team_id = request.args.get('team_id', default=33)  # Default to Manchester United
+    team_data = get_team_data(team_id)
+
+    return render_template('teams.html', team_data=team_data)
+
+# Main index route for standings, live scores, and fixtures
 @app.route('/', methods=['GET', 'POST'])
 def index():
     league_id = 39  # Default to EPL
@@ -87,14 +112,13 @@ def index():
     else:
         live_scores = transform_live_scores(live_data)
 
-    # Fetch upcoming/past fixtures
+    # Fetch fixtures
     fixture_data = get_fixtures(league_id, season)
     if 'error' in fixture_data:
         error_message = fixture_data['error']
     else:
         fixtures = transform_fixtures(fixture_data)
 
-    # Convert live scores, fixtures, and standings to HTML tables
     standings_html = standings.to_html(classes='table table-striped table-hover', index=False, escape=False) if standings is not None else None
     live_scores_html = live_scores.to_html(classes='table table-striped table-hover', index=False, escape=False) if live_scores is not None else None
     fixtures_html = fixtures.to_html(classes='table table-striped table-hover', index=False, escape=False) if fixtures is not None else None

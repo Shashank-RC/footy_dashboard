@@ -88,3 +88,43 @@ def get_fixtures(league_id, season):
     except requests.RequestException as e:
         print(f"Request failed: {e}")
         return {"error": "An error occurred while fetching fixtures."}
+
+# Function to search player by name
+def search_player_by_name(player_name):
+    url = f"https://v3.football.api-sports.io/players?search={player_name}"
+    headers = {
+        'x-apisports-key': API_KEY
+    }
+
+    print(f"Searching for player: {player_name}")
+    try:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            data = response.json()
+            if data['response']:
+                return data
+            else:
+                return {"error": "No player found with the provided name."}
+        else:
+            return {"error": f"API error: {response.status_code}"}
+    except requests.RequestException as e:
+        print(f"Request failed: {e}")
+        return {"error": "An error occurred while searching for the player."}
+
+# Function to get team data
+def get_team_data(team_id):
+    url = f"https://v3.football.api-sports.io/teams?id={team_id}"
+    headers = {
+        'x-apisports-key': API_KEY
+    }
+
+    print(f"Fetching team data for team {team_id}")
+    try:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return {"error": f"API error: {response.status_code}"}
+    except requests.RequestException as e:
+        print(f"Request failed: {e}")
+        return {"error": "An error occurred while fetching team data."}
