@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Match Outcome Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Predict Match Outcome</h2>
+        <form method="POST">
+            <div class="form-group">
+                <label for="goal_difference">Goal Difference</label>
+                <input type="number" class="form-control" id="goal_difference" name="goal_difference" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Predict Outcome</button>
+        </form>
+        
+        {% if prediction %}
+        <h3>Prediction: {{ prediction }}</h3>
+        {% endif %}
+    </div>
+</body>
+</html>

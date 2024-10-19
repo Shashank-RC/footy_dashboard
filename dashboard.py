@@ -1,8 +1,36 @@
 from flask import Flask, render_template, request
 from apisetup import get_standings, get_live_scores, get_fixtures, search_player_by_name, get_team_data
 import pandas as pd
+import joblib
+import numpy as np
 
 app = Flask(__name__)
+
+model = joblib.load('match_outcome_model.pkl')
+scaler = joblib.load('processed_data.pkl')[-1]  # Load scaler from processed data
+@app.route('/predict', methods=['GET', 'POST'])
+def predict_match():
+    prediction = None
+    if request.method == 'POST':
+        # Extract form data
+        goal_difference = float(request.form['goal_difference'])
+
+        # Prepare input data for prediction
+        input_data = np.array([[goal_difference]])
+        input_data = scaler.transform(input_data)
+
+        # Make prediction
+        prediction = model.predict(input_data)[0]
+
+        # Translate prediction into readable form
+        if prediction == 1:
+            prediction = "Home Team Wins"
+        elif prediction == -1:
+            prediction = "Away Team Wins"
+        else:
+            prediction = "Draw"
+
+    return render_template('predict.html', prediction=prediction)
 
 # Function to transform standings for display
 def transform_standings_data(data):

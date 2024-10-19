@@ -1,0 +1,761 @@
+fixture_id,date,home_team,away_team,home_goals,away_goals,status
+710556,2021-08-13T19:00:00+00:00,Brentford,Arsenal,2,0,Match Finished
+710561,2021-08-14T11:30:00+00:00,Manchester United,Leeds,5,1,Match Finished
+710565,2021-08-14T14:00:00+00:00,Watford,Aston Villa,3,2,Match Finished
+710557,2021-08-14T14:00:00+00:00,Burnley,Brighton,1,2,Match Finished
+710559,2021-08-14T14:00:00+00:00,Everton,Southampton,3,1,Match Finished
+710560,2021-08-14T14:00:00+00:00,Leicester,Wolves,1,0,Match Finished
+710558,2021-08-14T14:00:00+00:00,Chelsea,Crystal Palace,3,0,Match Finished
+710563,2021-08-14T16:30:00+00:00,Norwich,Liverpool,0,3,Match Finished
+710562,2021-08-15T13:00:00+00:00,Newcastle,West Ham,2,4,Match Finished
+710564,2021-08-15T15:30:00+00:00,Tottenham,Manchester City,1,0,Match Finished
+710571,2021-08-21T11:30:00+00:00,Liverpool,Burnley,2,0,Match Finished
+710572,2021-08-21T14:00:00+00:00,Manchester City,Norwich,5,0,Match Finished
+710569,2021-08-21T14:00:00+00:00,Crystal Palace,Brentford,0,0,Match Finished
+710570,2021-08-21T14:00:00+00:00,Leeds,Everton,2,2,Match Finished
+710567,2021-08-21T14:00:00+00:00,Aston Villa,Newcastle,2,0,Match Finished
+710568,2021-08-21T16:30:00+00:00,Brighton,Watford,2,0,Match Finished
+710575,2021-08-22T13:00:00+00:00,Wolves,Tottenham,0,1,Match Finished
+710573,2021-08-22T13:00:00+00:00,Southampton,Manchester United,1,1,Match Finished
+710566,2021-08-22T15:30:00+00:00,Arsenal,Chelsea,0,2,Match Finished
+710574,2021-08-23T19:00:00+00:00,West Ham,Leicester,4,1,Match Finished
+710580,2021-08-28T11:30:00+00:00,Manchester City,Arsenal,5,0,Match Finished
+710581,2021-08-28T14:00:00+00:00,Newcastle,Southampton,2,2,Match Finished
+710584,2021-08-28T14:00:00+00:00,West Ham,Crystal Palace,2,2,Match Finished
+710577,2021-08-28T14:00:00+00:00,Brighton,Everton,0,2,Match Finished
+710576,2021-08-28T14:00:00+00:00,Aston Villa,Brentford,1,1,Match Finished
+710582,2021-08-28T14:00:00+00:00,Norwich,Leicester,1,2,Match Finished
+710579,2021-08-28T16:30:00+00:00,Liverpool,Chelsea,1,1,Match Finished
+710578,2021-08-29T13:00:00+00:00,Burnley,Leeds,1,1,Match Finished
+710583,2021-08-29T13:00:00+00:00,Tottenham,Watford,1,0,Match Finished
+710585,2021-08-29T15:30:00+00:00,Wolves,Manchester United,0,1,Match Finished
+710589,2021-09-11T11:30:00+00:00,Crystal Palace,Tottenham,3,0,Match Finished
+710593,2021-09-11T14:00:00+00:00,Manchester United,Newcastle,4,1,Match Finished
+710595,2021-09-11T14:00:00+00:00,Watford,Wolves,0,2,Match Finished
+710594,2021-09-11T14:00:00+00:00,Southampton,West Ham,0,0,Match Finished
+710586,2021-09-11T14:00:00+00:00,Arsenal,Norwich,1,0,Match Finished
+710592,2021-09-11T14:00:00+00:00,Leicester,Manchester City,0,1,Match Finished
+710587,2021-09-11T14:00:00+00:00,Brentford,Brighton,0,1,Match Finished
+710588,2021-09-11T16:30:00+00:00,Chelsea,Aston Villa,3,0,Match Finished
+710591,2021-09-12T15:30:00+00:00,Leeds,Liverpool,0,3,Match Finished
+710590,2021-09-13T19:00:00+00:00,Everton,Burnley,3,1,Match Finished
+710601,2021-09-17T19:00:00+00:00,Newcastle,Leeds,1,1,Match Finished
+710605,2021-09-18T11:30:00+00:00,Wolves,Brentford,0,2,Match Finished
+710599,2021-09-18T14:00:00+00:00,Liverpool,Crystal Palace,3,0,Match Finished
+710598,2021-09-18T14:00:00+00:00,Burnley,Arsenal,0,1,Match Finished
+710600,2021-09-18T14:00:00+00:00,Manchester City,Southampton,0,0,Match Finished
+710602,2021-09-18T14:00:00+00:00,Norwich,Watford,1,3,Match Finished
+710596,2021-09-18T16:30:00+00:00,Aston Villa,Everton,3,0,Match Finished
+710604,2021-09-19T13:00:00+00:00,West Ham,Manchester United,1,2,Match Finished
+710597,2021-09-19T13:00:00+00:00,Brighton,Leicester,2,1,Match Finished
+710603,2021-09-19T15:30:00+00:00,Tottenham,Chelsea,0,3,Match Finished
+710613,2021-09-25T11:30:00+00:00,Manchester United,Aston Villa,0,1,Match Finished
+710608,2021-09-25T11:30:00+00:00,Chelsea,Manchester City,0,1,Match Finished
+710615,2021-09-25T14:00:00+00:00,Watford,Newcastle,1,1,Match Finished
+710610,2021-09-25T14:00:00+00:00,Everton,Norwich,2,0,Match Finished
+710612,2021-09-25T14:00:00+00:00,Leicester,Burnley,2,2,Match Finished
+710611,2021-09-25T14:00:00+00:00,Leeds,West Ham,1,2,Match Finished
+710607,2021-09-25T16:30:00+00:00,Brentford,Liverpool,3,3,Match Finished
+710614,2021-09-26T13:00:00+00:00,Southampton,Wolves,0,1,Match Finished
+710606,2021-09-26T15:30:00+00:00,Arsenal,Tottenham,3,1,Match Finished
+710609,2021-09-27T19:00:00+00:00,Crystal Palace,Brighton,1,1,Match Finished
+710622,2021-10-02T11:30:00+00:00,Manchester United,Everton,1,1,Match Finished
+710625,2021-10-02T14:00:00+00:00,Wolves,Newcastle,2,1,Match Finished
+710617,2021-10-02T14:00:00+00:00,Burnley,Norwich,0,0,Match Finished
+710618,2021-10-02T14:00:00+00:00,Chelsea,Southampton,3,1,Match Finished
+710620,2021-10-02T14:00:00+00:00,Leeds,Watford,1,0,Match Finished
+710616,2021-10-02T16:30:00+00:00,Brighton,Arsenal,0,0,Match Finished
+710623,2021-10-03T13:00:00+00:00,Tottenham,Aston Villa,2,1,Match Finished
+710624,2021-10-03T13:00:00+00:00,West Ham,Brentford,1,2,Match Finished
+710619,2021-10-03T13:00:00+00:00,Crystal Palace,Leicester,2,2,Match Finished
+710621,2021-10-03T15:30:00+00:00,Liverpool,Manchester City,2,2,Match Finished
+710635,2021-10-16T11:30:00+00:00,Watford,Liverpool,0,5,Match Finished
+710634,2021-10-16T14:00:00+00:00,Southampton,Leeds,1,0,Match Finished
+710630,2021-10-16T14:00:00+00:00,Leicester,Manchester United,4,2,Match Finished
+710631,2021-10-16T14:00:00+00:00,Manchester City,Burnley,2,0,Match Finished
+710627,2021-10-16T14:00:00+00:00,Aston Villa,Wolves,2,3,Match Finished
+710633,2021-10-16T14:00:00+00:00,Norwich,Brighton,0,0,Match Finished
+710628,2021-10-16T16:30:00+00:00,Brentford,Chelsea,0,1,Match Finished
+710629,2021-10-17T13:00:00+00:00,Everton,West Ham,0,1,Match Finished
+710632,2021-10-17T15:30:00+00:00,Newcastle,Tottenham,2,3,Match Finished
+710626,2021-10-18T19:00:00+00:00,Arsenal,Crystal Palace,2,2,Match Finished
+710636,2021-10-22T19:00:00+00:00,Arsenal,Aston Villa,3,1,Match Finished
+710639,2021-10-23T11:30:00+00:00,Chelsea,Norwich,7,0,Match Finished
+710644,2021-10-23T14:00:00+00:00,Southampton,Burnley,2,2,Match Finished
+710641,2021-10-23T14:00:00+00:00,Everton,Watford,2,5,Match Finished
+710640,2021-10-23T14:00:00+00:00,Crystal Palace,Newcastle,1,1,Match Finished
+710642,2021-10-23T14:00:00+00:00,Leeds,Wolves,1,1,Match Finished
+710638,2021-10-23T16:30:00+00:00,Brighton,Manchester City,1,4,Match Finished
+710645,2021-10-24T13:00:00+00:00,West Ham,Tottenham,1,0,Match Finished
+710637,2021-10-24T13:00:00+00:00,Brentford,Leicester,1,2,Match Finished
+710643,2021-10-24T15:30:00+00:00,Manchester United,Liverpool,0,5,Match Finished
+710648,2021-10-30T11:30:00+00:00,Leicester,Arsenal,0,2,Match Finished
+710651,2021-10-30T14:00:00+00:00,Newcastle,Chelsea,0,3,Match Finished
+710654,2021-10-30T14:00:00+00:00,Watford,Southampton,0,1,Match Finished
+710649,2021-10-30T14:00:00+00:00,Liverpool,Brighton,2,2,Match Finished
+710647,2021-10-30T14:00:00+00:00,Burnley,Brentford,3,1,Match Finished
+710650,2021-10-30T14:00:00+00:00,Manchester City,Crystal Palace,0,2,Match Finished
+710653,2021-10-30T16:30:00+00:00,Tottenham,Manchester United,0,3,Match Finished
+710652,2021-10-31T14:00:00+00:00,Norwich,Leeds,1,2,Match Finished
+710646,2021-10-31T16:30:00+00:00,Aston Villa,West Ham,1,4,Match Finished
+710655,2021-11-01T20:00:00+00:00,Wolves,Everton,2,1,Match Finished
+710664,2021-11-05T20:00:00+00:00,Southampton,Aston Villa,1,0,Match Finished
+710663,2021-11-06T12:30:00+00:00,Manchester United,Manchester City,0,2,Match Finished
+710659,2021-11-06T15:00:00+00:00,Chelsea,Burnley,1,1,Match Finished
+710660,2021-11-06T15:00:00+00:00,Crystal Palace,Wolves,2,0,Match Finished
+710657,2021-11-06T15:00:00+00:00,Brentford,Norwich,1,2,Match Finished
+710658,2021-11-06T17:30:00+00:00,Brighton,Newcastle,1,1,Match Finished
+710656,2021-11-07T14:00:00+00:00,Arsenal,Watford,1,0,Match Finished
+710661,2021-11-07T14:00:00+00:00,Everton,Tottenham,0,0,Match Finished
+710662,2021-11-07T14:00:00+00:00,Leeds,Leicester,1,1,Match Finished
+710665,2021-11-07T16:30:00+00:00,West Ham,Liverpool,3,2,Match Finished
+710668,2021-11-20T12:30:00+00:00,Leicester,Chelsea,0,3,Match Finished
+710671,2021-11-20T15:00:00+00:00,Newcastle,Brentford,3,3,Match Finished
+710674,2021-11-20T15:00:00+00:00,Watford,Manchester United,4,1,Match Finished
+710675,2021-11-20T15:00:00+00:00,Wolves,West Ham,1,0,Match Finished
+710667,2021-11-20T15:00:00+00:00,Burnley,Crystal Palace,3,3,Match Finished
+710666,2021-11-20T15:00:00+00:00,Aston Villa,Brighton,2,0,Match Finished
+710672,2021-11-20T15:00:00+00:00,Norwich,Southampton,2,1,Match Finished
+710669,2021-11-20T17:30:00+00:00,Liverpool,Arsenal,4,0,Match Finished
+710670,2021-11-21T14:00:00+00:00,Manchester City,Everton,3,0,Match Finished
+710673,2021-11-21T16:30:00+00:00,Tottenham,Leeds,2,1,Match Finished
+710676,2021-11-27T12:30:00+00:00,Arsenal,Newcastle,2,0,Match Finished
+710683,2021-11-27T15:00:00+00:00,Liverpool,Southampton,4,0,Match Finished
+710681,2021-11-27T15:00:00+00:00,Crystal Palace,Aston Villa,1,2,Match Finished
+710685,2021-11-27T15:00:00+00:00,Norwich,Wolves,0,0,Match Finished
+710678,2021-11-27T17:30:00+00:00,Brighton,Leeds,0,0,Match Finished
+710682,2021-11-28T14:00:00+00:00,Leicester,Watford,4,2,Match Finished
+710684,2021-11-28T14:00:00+00:00,Manchester City,West Ham,2,1,Match Finished
+710677,2021-11-28T14:00:00+00:00,Brentford,Everton,1,0,Match Finished
+710680,2021-11-28T16:30:00+00:00,Chelsea,Manchester United,1,1,Match Finished
+710693,2021-11-30T19:30:00+00:00,Newcastle,Norwich,1,1,Match Finished
+710688,2021-11-30T20:15:00+00:00,Leeds,Crystal Palace,1,0,Match Finished
+710689,2021-12-01T19:30:00+00:00,Watford,Chelsea,1,2,Match Finished
+710691,2021-12-01T19:30:00+00:00,Wolves,Burnley,0,0,Match Finished
+710694,2021-12-01T19:30:00+00:00,Southampton,Leicester,2,2,Match Finished
+710690,2021-12-01T19:30:00+00:00,West Ham,Brighton,1,1,Match Finished
+710687,2021-12-01T20:15:00+00:00,Everton,Liverpool,1,4,Match Finished
+710686,2021-12-01T20:15:00+00:00,Aston Villa,Manchester City,1,2,Match Finished
+710695,2021-12-02T19:30:00+00:00,Tottenham,Brentford,2,0,Match Finished
+710692,2021-12-02T20:15:00+00:00,Manchester United,Arsenal,3,2,Match Finished
+710704,2021-12-04T12:30:00+00:00,West Ham,Chelsea,3,2,Match Finished
+710700,2021-12-04T15:00:00+00:00,Newcastle,Burnley,1,0,Match Finished
+710705,2021-12-04T15:00:00+00:00,Wolves,Liverpool,0,1,Match Finished
+710701,2021-12-04T15:00:00+00:00,Southampton,Brighton,1,1,Match Finished
+710703,2021-12-04T17:30:00+00:00,Watford,Manchester City,1,3,Match Finished
+710699,2021-12-05T14:00:00+00:00,Manchester United,Crystal Palace,1,0,Match Finished
+710702,2021-12-05T14:00:00+00:00,Tottenham,Norwich,3,0,Match Finished
+710698,2021-12-05T14:00:00+00:00,Leeds,Brentford,2,2,Match Finished
+710696,2021-12-05T16:30:00+00:00,Aston Villa,Leicester,2,1,Match Finished
+710697,2021-12-06T20:00:00+00:00,Everton,Arsenal,2,1,Match Finished
+710707,2021-12-10T20:00:00+00:00,Brentford,Watford,2,1,Match Finished
+710714,2021-12-11T12:30:00+00:00,Manchester City,Wolves,1,0,Match Finished
+710713,2021-12-11T15:00:00+00:00,Liverpool,Aston Villa,1,0,Match Finished
+710706,2021-12-11T15:00:00+00:00,Arsenal,Southampton,3,0,Match Finished
+710710,2021-12-11T15:00:00+00:00,Chelsea,Leeds,3,2,Match Finished
+710715,2021-12-11T17:30:00+00:00,Norwich,Manchester United,0,1,Match Finished
+710709,2021-12-12T14:00:00+00:00,Burnley,West Ham,0,0,Match Finished
+710712,2021-12-12T14:00:00+00:00,Leicester,Newcastle,4,0,Match Finished
+710711,2021-12-12T16:30:00+00:00,Crystal Palace,Everton,3,1,Match Finished
+710721,2021-12-14T19:45:00+00:00,Norwich,Aston Villa,0,2,Match Finished
+710725,2021-12-14T20:00:00+00:00,Manchester City,Leeds,7,0,Match Finished
+710718,2021-12-15T19:30:00+00:00,Brighton,Wolves,0,1,Match Finished
+710722,2021-12-15T19:30:00+00:00,Crystal Palace,Southampton,2,2,Match Finished
+710716,2021-12-15T20:00:00+00:00,Arsenal,West Ham,2,0,Match Finished
+710723,2021-12-16T19:45:00+00:00,Chelsea,Everton,1,1,Match Finished
+710724,2021-12-16T20:00:00+00:00,Liverpool,Newcastle,3,1,Match Finished
+710728,2021-12-18T17:30:00+00:00,Leeds,Arsenal,1,4,Match Finished
+710730,2021-12-19T14:00:00+00:00,Newcastle,Manchester City,0,4,Match Finished
+710735,2021-12-19T14:00:00+00:00,Wolves,Chelsea,0,0,Match Finished
+710732,2021-12-19T16:30:00+00:00,Tottenham,Liverpool,2,2,Match Finished
+710743,2021-12-26T15:00:00+00:00,Tottenham,Crystal Palace,3,0,Match Finished
+710744,2021-12-26T15:00:00+00:00,West Ham,Southampton,2,3,Match Finished
+710740,2021-12-26T15:00:00+00:00,Manchester City,Leicester,6,3,Match Finished
+710742,2021-12-26T15:00:00+00:00,Norwich,Arsenal,0,5,Match Finished
+710736,2021-12-26T17:30:00+00:00,Aston Villa,Chelsea,1,3,Match Finished
+710737,2021-12-26T20:00:00+00:00,Brighton,Brentford,2,0,Match Finished
+710741,2021-12-27T20:00:00+00:00,Newcastle,Manchester United,1,1,Match Finished
+710755,2021-12-28T15:00:00+00:00,Watford,West Ham,1,4,Match Finished
+710754,2021-12-28T15:00:00+00:00,Southampton,Tottenham,1,1,Match Finished
+710749,2021-12-28T15:00:00+00:00,Crystal Palace,Norwich,3,0,Match Finished
+710752,2021-12-28T20:00:00+00:00,Leicester,Liverpool,1,0,Match Finished
+710748,2021-12-29T19:30:00+00:00,Chelsea,Brighton,1,1,Match Finished
+710747,2021-12-29T20:15:00+00:00,Brentford,Manchester City,0,1,Match Finished
+710753,2021-12-30T20:15:00+00:00,Manchester United,Burnley,3,1,Match Finished
+710756,2022-01-01T12:30:00+00:00,Arsenal,Manchester City,1,2,Match Finished
+710765,2022-01-01T15:00:00+00:00,Watford,Tottenham,0,1,Match Finished
+710759,2022-01-01T17:30:00+00:00,Crystal Palace,West Ham,2,3,Match Finished
+710760,2022-01-02T14:00:00+00:00,Everton,Brighton,2,3,Match Finished
+710757,2022-01-02T14:00:00+00:00,Brentford,Aston Villa,2,1,Match Finished
+710761,2022-01-02T14:00:00+00:00,Leeds,Burnley,3,1,Match Finished
+710758,2022-01-02T16:30:00+00:00,Chelsea,Liverpool,2,2,Match Finished
+710763,2022-01-03T17:30:00+00:00,Manchester United,Wolves,0,1,Match Finished
+710731,2022-01-11T19:45:00+00:00,Southampton,Brentford,4,1,Match Finished
+710734,2022-01-12T19:45:00+00:00,West Ham,Norwich,2,0,Match Finished
+710767,2022-01-14T20:00:00+00:00,Brighton,Crystal Palace,1,1,Match Finished
+710770,2022-01-15T12:30:00+00:00,Manchester City,Chelsea,1,0,Match Finished
+710771,2022-01-15T15:00:00+00:00,Newcastle,Watford,1,1,Match Finished
+710775,2022-01-15T15:00:00+00:00,Wolves,Southampton,3,1,Match Finished
+710772,2022-01-15T15:00:00+00:00,Norwich,Everton,2,1,Match Finished
+710766,2022-01-15T17:30:00+00:00,Aston Villa,Manchester United,2,2,Match Finished
+710769,2022-01-16T14:00:00+00:00,Liverpool,Brentford,3,0,Match Finished
+710774,2022-01-16T14:00:00+00:00,West Ham,Leeds,2,3,Match Finished
+710787,2022-01-18T20:00:00+00:00,Brighton,Chelsea,1,1,Match Finished
+710720,2022-01-19T19:30:00+00:00,Leicester,Tottenham,2,3,Match Finished
+710717,2022-01-19T20:00:00+00:00,Brentford,Manchester United,1,3,Match Finished
+710785,2022-01-21T20:00:00+00:00,Watford,Norwich,0,3,Match Finished
+710780,2022-01-22T12:30:00+00:00,Everton,Aston Villa,0,1,Match Finished
+710783,2022-01-22T15:00:00+00:00,Manchester United,West Ham,1,0,Match Finished
+710777,2022-01-22T15:00:00+00:00,Brentford,Wolves,1,2,Match Finished
+710781,2022-01-22T15:00:00+00:00,Leeds,Newcastle,0,1,Match Finished
+710784,2022-01-22T17:30:00+00:00,Southampton,Manchester City,1,1,Match Finished
+710776,2022-01-23T14:00:00+00:00,Arsenal,Burnley,0,0,Match Finished
+710782,2022-01-23T14:00:00+00:00,Leicester,Brighton,1,1,Match Finished
+710779,2022-01-23T14:00:00+00:00,Crystal Palace,Liverpool,1,3,Match Finished
+710778,2022-01-23T16:30:00+00:00,Chelsea,Tottenham,2,0,Match Finished
+710719,2022-02-05T18:00:00+00:00,Burnley,Watford,0,0,Match Finished
+710792,2022-02-08T19:45:00+00:00,Newcastle,Everton,3,1,Match Finished
+710790,2022-02-08T19:45:00+00:00,West Ham,Watford,1,0,Match Finished
+710788,2022-02-08T20:00:00+00:00,Burnley,Manchester United,1,1,Match Finished
+710793,2022-02-09T19:45:00+00:00,Tottenham,Southampton,2,3,Match Finished
+710795,2022-02-09T19:45:00+00:00,Manchester City,Brentford,2,0,Match Finished
+710789,2022-02-09T19:45:00+00:00,Norwich,Crystal Palace,1,1,Match Finished
+710786,2022-02-09T20:00:00+00:00,Aston Villa,Leeds,3,3,Match Finished
+710791,2022-02-10T19:45:00+00:00,Wolves,Arsenal,0,1,Match Finished
+710794,2022-02-10T19:45:00+00:00,Liverpool,Leicester,2,0,Match Finished
+710801,2022-02-12T12:30:00+00:00,Manchester United,Southampton,1,1,Match Finished
+710805,2022-02-12T15:00:00+00:00,Watford,Brighton,0,2,Match Finished
+710799,2022-02-12T15:00:00+00:00,Everton,Leeds,3,0,Match Finished
+710796,2022-02-12T15:00:00+00:00,Brentford,Crystal Palace,0,0,Match Finished
+710803,2022-02-12T17:30:00+00:00,Norwich,Manchester City,0,4,Match Finished
+710802,2022-02-13T14:00:00+00:00,Newcastle,Aston Villa,1,0,Match Finished
+710797,2022-02-13T14:00:00+00:00,Burnley,Liverpool,0,1,Match Finished
+710804,2022-02-13T14:00:00+00:00,Tottenham,Wolves,0,2,Match Finished
+710800,2022-02-13T16:30:00+00:00,Leicester,West Ham,2,2,Match Finished
+710729,2022-02-15T20:15:00+00:00,Manchester United,Brighton,2,0,Match Finished
+710814,2022-02-19T12:30:00+00:00,West Ham,Newcastle,1,1,Match Finished
+710811,2022-02-19T15:00:00+00:00,Liverpool,Norwich,3,1,Match Finished
+710813,2022-02-19T15:00:00+00:00,Southampton,Everton,2,0,Match Finished
+710806,2022-02-19T15:00:00+00:00,Arsenal,Brentford,2,1,Match Finished
+710808,2022-02-19T15:00:00+00:00,Brighton,Burnley,0,3,Match Finished
+710809,2022-02-19T15:00:00+00:00,Crystal Palace,Chelsea,0,1,Match Finished
+710807,2022-02-19T15:00:00+00:00,Aston Villa,Watford,0,1,Match Finished
+710812,2022-02-19T17:30:00+00:00,Manchester City,Tottenham,2,3,Match Finished
+710810,2022-02-20T14:00:00+00:00,Leeds,Manchester United,2,4,Match Finished
+710815,2022-02-20T16:30:00+00:00,Wolves,Leicester,2,1,Match Finished
+710733,2022-02-23T19:30:00+00:00,Watford,Crystal Palace,1,4,Match Finished
+710679,2022-02-23T19:30:00+00:00,Burnley,Tottenham,1,0,Match Finished
+710739,2022-02-23T19:45:00+00:00,Liverpool,Leeds,6,0,Match Finished
+710746,2022-02-24T19:45:00+00:00,Arsenal,Wolves,2,1,Match Finished
+710824,2022-02-25T20:00:00+00:00,Southampton,Norwich,2,0,Match Finished
+710822,2022-02-26T12:30:00+00:00,Leeds,Tottenham,0,4,Match Finished
+710823,2022-02-26T15:00:00+00:00,Manchester United,Watford,0,0,Match Finished
+710820,2022-02-26T15:00:00+00:00,Crystal Palace,Burnley,1,1,Match Finished
+710817,2022-02-26T15:00:00+00:00,Brentford,Newcastle,0,2,Match Finished
+710818,2022-02-26T15:30:00+00:00,Brighton,Aston Villa,0,2,Match Finished
+710821,2022-02-26T17:30:00+00:00,Everton,Manchester City,0,1,Match Finished
+710825,2022-02-27T14:00:00+00:00,West Ham,Wolves,1,0,Match Finished
+710768,2022-03-01T19:45:00+00:00,Burnley,Leicester,0,2,Match Finished
+710828,2022-03-05T12:30:00+00:00,Leicester,Leeds,1,0,Match Finished
+710831,2022-03-05T15:00:00+00:00,Newcastle,Brighton,2,1,Match Finished
+710835,2022-03-05T15:00:00+00:00,Wolves,Crystal Palace,0,2,Match Finished
+710827,2022-03-05T15:00:00+00:00,Burnley,Chelsea,0,4,Match Finished
+710826,2022-03-05T15:00:00+00:00,Aston Villa,Southampton,4,0,Match Finished
+710832,2022-03-05T15:00:00+00:00,Norwich,Brentford,1,3,Match Finished
+710829,2022-03-05T17:30:00+00:00,Liverpool,West Ham,1,0,Match Finished
+710834,2022-03-06T14:00:00+00:00,Watford,Arsenal,2,3,Match Finished
+710830,2022-03-06T16:30:00+00:00,Manchester City,Manchester United,4,1,Match Finished
+710833,2022-03-07T20:00:00+00:00,Tottenham,Everton,5,0,Match Finished
+710745,2022-03-10T19:30:00+00:00,Wolves,Watford,4,0,Match Finished
+710764,2022-03-10T19:30:00+00:00,Southampton,Newcastle,1,2,Match Finished
+710852,2022-03-10T19:30:00+00:00,Norwich,Chelsea,1,3,Match Finished
+710751,2022-03-10T19:45:00+00:00,Leeds,Aston Villa,0,3,Match Finished
+710838,2022-03-12T12:30:00+00:00,Brighton,Liverpool,0,2,Match Finished
+710837,2022-03-12T15:00:00+00:00,Brentford,Burnley,2,0,Match Finished
+710843,2022-03-12T17:30:00+00:00,Manchester United,Tottenham,3,2,Match Finished
+710844,2022-03-13T14:00:00+00:00,Southampton,Watford,1,2,Match Finished
+710841,2022-03-13T14:00:00+00:00,Everton,Wolves,0,1,Match Finished
+710845,2022-03-13T14:00:00+00:00,West Ham,Aston Villa,2,1,Match Finished
+710839,2022-03-13T14:00:00+00:00,Chelsea,Newcastle,1,0,Match Finished
+710842,2022-03-13T14:00:00+00:00,Leeds,Norwich,2,1,Match Finished
+710836,2022-03-13T16:30:00+00:00,Arsenal,Leicester,2,0,Match Finished
+710840,2022-03-14T20:00:00+00:00,Crystal Palace,Manchester City,0,0,Match Finished
+710708,2022-03-16T19:30:00+00:00,Brighton,Tottenham,0,2,Match Finished
+710816,2022-03-16T20:15:00+00:00,Arsenal,Liverpool,0,2,Match Finished
+710750,2022-03-17T19:45:00+00:00,Everton,Newcastle,1,0,Match Finished
+710855,2022-03-18T20:00:00+00:00,Wolves,Leeds,2,3,Match Finished
+710846,2022-03-19T12:30:00+00:00,Aston Villa,Arsenal,0,1,Match Finished
+710848,2022-03-20T14:00:00+00:00,Leicester,Brentford,2,1,Match Finished
+710853,2022-03-20T16:30:00+00:00,Tottenham,West Ham,3,1,Match Finished
+710861,2022-04-02T11:30:00+00:00,Liverpool,Watford,2,0,Match Finished
+710865,2022-04-02T14:00:00+00:00,Wolves,Aston Villa,2,1,Match Finished
+710857,2022-04-02T14:00:00+00:00,Burnley,Manchester City,0,2,Match Finished
+710858,2022-04-02T14:00:00+00:00,Chelsea,Brentford,1,4,Match Finished
+710856,2022-04-02T14:00:00+00:00,Brighton,Norwich,0,0,Match Finished
+710860,2022-04-02T14:00:00+00:00,Leeds,Southampton,1,1,Match Finished
+710862,2022-04-02T16:30:00+00:00,Manchester United,Leicester,1,1,Match Finished
+710864,2022-04-03T13:00:00+00:00,West Ham,Everton,2,1,Match Finished
+710863,2022-04-03T15:30:00+00:00,Tottenham,Newcastle,5,1,Match Finished
+710859,2022-04-04T19:00:00+00:00,Crystal Palace,Arsenal,3,0,Match Finished
+710738,2022-04-06T18:30:00+00:00,Burnley,Everton,3,2,Match Finished
+710872,2022-04-08T19:00:00+00:00,Newcastle,Wolves,1,0,Match Finished
+710869,2022-04-09T11:30:00+00:00,Everton,Manchester United,1,0,Match Finished
+710875,2022-04-09T14:00:00+00:00,Watford,Leeds,0,3,Match Finished
+710874,2022-04-09T14:00:00+00:00,Southampton,Chelsea,0,6,Match Finished
+710866,2022-04-09T14:00:00+00:00,Arsenal,Brighton,1,2,Match Finished
+710867,2022-04-09T16:30:00+00:00,Aston Villa,Tottenham,0,4,Match Finished
+710870,2022-04-10T13:00:00+00:00,Leicester,Crystal Palace,2,1,Match Finished
+710868,2022-04-10T13:00:00+00:00,Brentford,West Ham,2,0,Match Finished
+710873,2022-04-10T13:00:00+00:00,Norwich,Burnley,2,0,Match Finished
+710871,2022-04-10T15:30:00+00:00,Manchester City,Liverpool,2,2,Match Finished
+710882,2022-04-16T11:30:00+00:00,Tottenham,Brighton,0,1,Match Finished
+710879,2022-04-16T14:00:00+00:00,Manchester United,Norwich,3,2,Match Finished
+710883,2022-04-16T14:00:00+00:00,Watford,Brentford,1,2,Match Finished
+710881,2022-04-16T14:00:00+00:00,Southampton,Arsenal,1,0,Match Finished
+710880,2022-04-17T13:15:00+00:00,Newcastle,Leicester,2,1,Match Finished
+710884,2022-04-17T13:15:00+00:00,West Ham,Burnley,1,1,Match Finished
+710849,2022-04-19T19:00:00+00:00,Liverpool,Manchester United,4,0,Match Finished
+710851,2022-04-20T18:45:00+00:00,Newcastle,Crystal Palace,1,0,Match Finished
+710727,2022-04-20T18:45:00+00:00,Everton,Leicester,1,1,Match Finished
+710798,2022-04-20T18:45:00+00:00,Chelsea,Arsenal,2,4,Match Finished
+710850,2022-04-20T19:00:00+00:00,Manchester City,Brighton,3,0,Match Finished
+710847,2022-04-21T18:45:00+00:00,Burnley,Southampton,2,0,Match Finished
+710886,2022-04-23T11:30:00+00:00,Arsenal,Manchester United,3,1,Match Finished
+710892,2022-04-23T14:00:00+00:00,Leicester,Aston Villa,0,0,Match Finished
+710894,2022-04-23T14:00:00+00:00,Manchester City,Watford,5,1,Match Finished
+710895,2022-04-23T14:00:00+00:00,Norwich,Newcastle,0,3,Match Finished
+710887,2022-04-23T16:30:00+00:00,Brentford,Tottenham,0,0,Match Finished
+710889,2022-04-24T13:00:00+00:00,Burnley,Wolves,1,0,Match Finished
+710890,2022-04-24T13:00:00+00:00,Chelsea,West Ham,1,0,Match Finished
+710888,2022-04-24T13:00:00+00:00,Brighton,Southampton,2,2,Match Finished
+710893,2022-04-24T15:30:00+00:00,Liverpool,Everton,2,0,Match Finished
+710891,2022-04-25T19:00:00+00:00,Crystal Palace,Leeds,0,0,Match Finished
+710919,2022-04-28T18:45:00+00:00,Manchester United,Chelsea,1,1,Match Finished
+710900,2022-04-30T11:30:00+00:00,Newcastle,Liverpool,0,1,Match Finished
+710903,2022-04-30T14:00:00+00:00,Watford,Burnley,1,2,Match Finished
+710905,2022-04-30T14:00:00+00:00,Wolves,Brighton,0,3,Match Finished
+710901,2022-04-30T14:00:00+00:00,Southampton,Crystal Palace,1,2,Match Finished
+710896,2022-04-30T14:00:00+00:00,Aston Villa,Norwich,2,0,Match Finished
+710898,2022-04-30T16:30:00+00:00,Leeds,Manchester City,0,4,Match Finished
+710897,2022-05-01T13:00:00+00:00,Everton,Chelsea,1,0,Match Finished
+710902,2022-05-01T13:00:00+00:00,Tottenham,Leicester,3,1,Match Finished
+710904,2022-05-01T15:30:00+00:00,West Ham,Arsenal,1,2,Match Finished
+710899,2022-05-02T19:00:00+00:00,Manchester United,Brentford,3,0,Match Finished
+710909,2022-05-07T14:00:00+00:00,Burnley,Aston Villa,1,3,Match Finished
+710910,2022-05-07T14:00:00+00:00,Chelsea,Wolves,2,2,Match Finished
+710911,2022-05-07T14:00:00+00:00,Crystal Palace,Watford,1,0,Match Finished
+710907,2022-05-07T14:00:00+00:00,Brentford,Southampton,3,0,Match Finished
+710908,2022-05-07T16:30:00+00:00,Brighton,Manchester United,4,0,Match Finished
+710913,2022-05-07T18:45:00+00:00,Liverpool,Tottenham,1,1,Match Finished
+710906,2022-05-08T13:00:00+00:00,Arsenal,Leeds,2,1,Match Finished
+710912,2022-05-08T13:00:00+00:00,Leicester,Everton,1,2,Match Finished
+710915,2022-05-08T13:00:00+00:00,Norwich,West Ham,0,4,Match Finished
+710914,2022-05-08T15:30:00+00:00,Manchester City,Newcastle,5,0,Match Finished
+710876,2022-05-10T19:00:00+00:00,Aston Villa,Liverpool,1,2,Match Finished
+710878,2022-05-11T18:30:00+00:00,Leeds,Chelsea,0,3,Match Finished
+710854,2022-05-11T18:45:00+00:00,Watford,Everton,0,0,Match Finished
+710762,2022-05-11T18:45:00+00:00,Leicester,Norwich,3,0,Match Finished
+710885,2022-05-11T19:15:00+00:00,Wolves,Manchester City,1,5,Match Finished
+710773,2022-05-12T18:45:00+00:00,Tottenham,Arsenal,3,0,Match Finished
+710922,2022-05-15T11:00:00+00:00,Tottenham,Burnley,1,0,Match Finished
+710923,2022-05-15T13:00:00+00:00,Watford,Leicester,1,5,Match Finished
+710925,2022-05-15T13:00:00+00:00,Wolves,Norwich,1,1,Match Finished
+710924,2022-05-15T13:00:00+00:00,West Ham,Manchester City,2,2,Match Finished
+710918,2022-05-15T13:00:00+00:00,Leeds,Brighton,1,1,Match Finished
+710916,2022-05-15T13:00:00+00:00,Aston Villa,Crystal Palace,1,1,Match Finished
+710917,2022-05-15T15:30:00+00:00,Everton,Brentford,2,3,Match Finished
+710920,2022-05-16T19:00:00+00:00,Newcastle,Arsenal,2,0,Match Finished
+710921,2022-05-17T18:45:00+00:00,Southampton,Liverpool,1,2,Match Finished
+710877,2022-05-19T18:45:00+00:00,Everton,Crystal Palace,3,2,Match Finished
+710819,2022-05-19T19:00:00+00:00,Chelsea,Leicester,1,1,Match Finished
+710726,2022-05-19T19:00:00+00:00,Aston Villa,Burnley,1,1,Match Finished
+710933,2022-05-22T15:00:00+00:00,Liverpool,Wolves,3,1,Match Finished
+710926,2022-05-22T15:00:00+00:00,Arsenal,Everton,5,1,Match Finished
+710929,2022-05-22T15:00:00+00:00,Burnley,Newcastle,1,2,Match Finished
+710932,2022-05-22T15:00:00+00:00,Leicester,Southampton,4,1,Match Finished
+710930,2022-05-22T15:00:00+00:00,Chelsea,Watford,2,1,Match Finished
+710934,2022-05-22T15:00:00+00:00,Manchester City,Aston Villa,3,2,Match Finished
+710928,2022-05-22T15:00:00+00:00,Brighton,West Ham,3,1,Match Finished
+710931,2022-05-22T15:00:00+00:00,Crystal Palace,Manchester United,1,0,Match Finished
+710927,2022-05-22T15:00:00+00:00,Brentford,Leeds,1,2,Match Finished
+710935,2022-05-22T15:00:00+00:00,Norwich,Tottenham,0,5,Match Finished
+867946,2022-08-05T19:00:00+00:00,Crystal Palace,Arsenal,0,2,Match Finished
+867947,2022-08-06T11:30:00+00:00,Fulham,Liverpool,2,2,Match Finished
+867951,2022-08-06T14:00:00+00:00,Newcastle,Nottingham Forest,2,0,Match Finished
+867948,2022-08-06T14:00:00+00:00,Bournemouth,Aston Villa,2,0,Match Finished
+867952,2022-08-06T14:00:00+00:00,Tottenham,Southampton,4,1,Match Finished
+867949,2022-08-06T14:00:00+00:00,Leeds,Wolves,2,1,Match Finished
+867953,2022-08-06T16:30:00+00:00,Everton,Chelsea,0,1,Match Finished
+867954,2022-08-07T13:00:00+00:00,Manchester United,Brighton,1,2,Match Finished
+867950,2022-08-07T13:00:00+00:00,Leicester,Brentford,2,2,Match Finished
+867955,2022-08-07T15:30:00+00:00,West Ham,Manchester City,0,2,Match Finished
+867957,2022-08-13T11:30:00+00:00,Aston Villa,Everton,2,1,Match Finished
+867965,2022-08-13T14:00:00+00:00,Wolves,Fulham,0,0,Match Finished
+867964,2022-08-13T14:00:00+00:00,Southampton,Leeds,2,2,Match Finished
+867956,2022-08-13T14:00:00+00:00,Arsenal,Leicester,4,2,Match Finished
+867962,2022-08-13T14:00:00+00:00,Manchester City,Bournemouth,4,0,Match Finished
+867959,2022-08-13T14:00:00+00:00,Brighton,Newcastle,0,0,Match Finished
+867958,2022-08-13T16:30:00+00:00,Brentford,Manchester United,4,0,Match Finished
+867963,2022-08-14T13:00:00+00:00,Nottingham Forest,West Ham,1,0,Match Finished
+867960,2022-08-14T15:30:00+00:00,Chelsea,Tottenham,2,2,Match Finished
+867961,2022-08-15T19:00:00+00:00,Liverpool,Crystal Palace,1,1,Match Finished
+867974,2022-08-20T11:30:00+00:00,Tottenham,Wolves,1,0,Match Finished
+867969,2022-08-20T14:00:00+00:00,Fulham,Brentford,3,2,Match Finished
+867968,2022-08-20T14:00:00+00:00,Everton,Nottingham Forest,1,1,Match Finished
+867971,2022-08-20T14:00:00+00:00,Leicester,Southampton,1,2,Match Finished
+867967,2022-08-20T14:00:00+00:00,Crystal Palace,Aston Villa,3,1,Match Finished
+867966,2022-08-20T16:30:00+00:00,Bournemouth,Arsenal,0,3,Match Finished
+867975,2022-08-21T13:00:00+00:00,West Ham,Brighton,0,2,Match Finished
+867970,2022-08-21T13:00:00+00:00,Leeds,Chelsea,3,0,Match Finished
+867973,2022-08-21T15:30:00+00:00,Newcastle,Manchester City,3,3,Match Finished
+867972,2022-08-22T19:00:00+00:00,Manchester United,Liverpool,2,1,Match Finished
+867984,2022-08-27T11:30:00+00:00,Southampton,Manchester United,0,1,Match Finished
+867981,2022-08-27T14:00:00+00:00,Liverpool,Bournemouth,9,0,Match Finished
+867980,2022-08-27T14:00:00+00:00,Chelsea,Leicester,2,1,Match Finished
+867982,2022-08-27T14:00:00+00:00,Manchester City,Crystal Palace,4,2,Match Finished
+867979,2022-08-27T14:00:00+00:00,Brighton,Leeds,1,0,Match Finished
+867978,2022-08-27T14:00:00+00:00,Brentford,Everton,1,1,Match Finished
+867976,2022-08-27T16:30:00+00:00,Arsenal,Fulham,2,1,Match Finished
+867985,2022-08-28T13:00:00+00:00,Wolves,Newcastle,1,1,Match Finished
+867977,2022-08-28T13:00:00+00:00,Aston Villa,West Ham,0,1,Match Finished
+867983,2022-08-28T15:30:00+00:00,Nottingham Forest,Tottenham,0,2,Match Finished
+867988,2022-08-30T18:30:00+00:00,Fulham,Brighton,2,1,Match Finished
+867992,2022-08-30T18:30:00+00:00,Crystal Palace,Brentford,1,1,Match Finished
+867993,2022-08-30T18:45:00+00:00,Southampton,Chelsea,2,1,Match Finished
+867989,2022-08-30T19:00:00+00:00,Leeds,Everton,1,1,Match Finished
+867986,2022-08-31T18:30:00+00:00,Bournemouth,Wolves,0,0,Match Finished
+867987,2022-08-31T18:30:00+00:00,Arsenal,Aston Villa,2,1,Match Finished
+867995,2022-08-31T18:30:00+00:00,Manchester City,Nottingham Forest,6,0,Match Finished
+867991,2022-08-31T18:45:00+00:00,West Ham,Tottenham,1,1,Match Finished
+867994,2022-08-31T19:00:00+00:00,Liverpool,Newcastle,2,1,Match Finished
+867990,2022-09-01T19:00:00+00:00,Leicester,Manchester United,0,1,Match Finished
+868000,2022-09-03T11:30:00+00:00,Everton,Liverpool,0,0,Match Finished
+868002,2022-09-03T14:00:00+00:00,Newcastle,Crystal Palace,0,0,Match Finished
+868005,2022-09-03T14:00:00+00:00,Wolves,Southampton,1,0,Match Finished
+868004,2022-09-03T14:00:00+00:00,Tottenham,Fulham,2,1,Match Finished
+867999,2022-09-03T14:00:00+00:00,Chelsea,West Ham,2,1,Match Finished
+867997,2022-09-03T14:00:00+00:00,Brentford,Leeds,5,2,Match Finished
+868003,2022-09-03T14:00:00+00:00,Nottingham Forest,Bournemouth,2,3,Match Finished
+867996,2022-09-03T16:30:00+00:00,Aston Villa,Manchester City,1,1,Match Finished
+867998,2022-09-04T13:00:00+00:00,Brighton,Leicester,5,2,Match Finished
+868001,2022-09-04T15:30:00+00:00,Manchester United,Arsenal,3,1,Match Finished
+868023,2022-09-16T19:00:00+00:00,Nottingham Forest,Fulham,2,3,Match Finished
+868016,2022-09-16T19:00:00+00:00,Aston Villa,Southampton,1,0,Match Finished
+868025,2022-09-17T11:30:00+00:00,Wolves,Manchester City,0,3,Match Finished
+868022,2022-09-17T14:00:00+00:00,Newcastle,Bournemouth,1,1,Match Finished
+868024,2022-09-17T16:30:00+00:00,Tottenham,Leicester,6,2,Match Finished
+868017,2022-09-18T11:00:00+00:00,Brentford,Arsenal,0,3,Match Finished
+868020,2022-09-18T13:15:00+00:00,Everton,West Ham,1,0,Match Finished
+868027,2022-10-01T11:30:00+00:00,Arsenal,Tottenham,3,1,Match Finished
+868026,2022-10-01T14:00:00+00:00,Bournemouth,Brentford,0,0,Match Finished
+868029,2022-10-01T14:00:00+00:00,Fulham,Newcastle,1,4,Match Finished
+868032,2022-10-01T14:00:00+00:00,Liverpool,Brighton,3,3,Match Finished
+868034,2022-10-01T14:00:00+00:00,Southampton,Everton,1,2,Match Finished
+868028,2022-10-01T14:00:00+00:00,Crystal Palace,Chelsea,1,2,Match Finished
+868035,2022-10-01T16:30:00+00:00,West Ham,Wolves,2,0,Match Finished
+868033,2022-10-02T13:00:00+00:00,Manchester City,Manchester United,6,3,Match Finished
+868030,2022-10-02T15:30:00+00:00,Leeds,Aston Villa,0,0,Match Finished
+868031,2022-10-03T19:00:00+00:00,Leicester,Nottingham Forest,4,0,Match Finished
+868043,2022-10-08T14:00:00+00:00,Newcastle,Brentford,5,1,Match Finished
+868036,2022-10-08T14:00:00+00:00,Bournemouth,Leicester,2,1,Match Finished
+868039,2022-10-08T14:00:00+00:00,Chelsea,Wolves,3,0,Match Finished
+868042,2022-10-08T14:00:00+00:00,Manchester City,Southampton,4,0,Match Finished
+868038,2022-10-08T16:30:00+00:00,Brighton,Tottenham,0,1,Match Finished
+868045,2022-10-09T13:00:00+00:00,West Ham,Fulham,3,1,Match Finished
+868040,2022-10-09T13:00:00+00:00,Crystal Palace,Leeds,2,1,Match Finished
+868037,2022-10-09T15:30:00+00:00,Arsenal,Liverpool,3,2,Match Finished
+868041,2022-10-09T18:00:00+00:00,Everton,Manchester United,1,2,Match Finished
+868044,2022-10-10T19:00:00+00:00,Nottingham Forest,Aston Villa,1,1,Match Finished
+868047,2022-10-14T19:00:00+00:00,Brentford,Brighton,2,0,Match Finished
+868050,2022-10-15T11:30:00+00:00,Leicester,Crystal Palace,0,0,Match Finished
+868048,2022-10-15T14:00:00+00:00,Fulham,Bournemouth,2,2,Match Finished
+868055,2022-10-15T14:00:00+00:00,Wolves,Nottingham Forest,1,0,Match Finished
+868054,2022-10-15T16:30:00+00:00,Tottenham,Everton,2,0,Match Finished
+868052,2022-10-16T13:00:00+00:00,Manchester United,Newcastle,0,0,Match Finished
+868053,2022-10-16T13:00:00+00:00,Southampton,West Ham,1,1,Match Finished
+868049,2022-10-16T13:00:00+00:00,Leeds,Arsenal,0,1,Match Finished
+868046,2022-10-16T13:00:00+00:00,Aston Villa,Chelsea,0,2,Match Finished
+868051,2022-10-16T15:30:00+00:00,Liverpool,Manchester City,1,0,Match Finished
+868059,2022-10-18T18:30:00+00:00,Brighton,Nottingham Forest,0,0,Match Finished
+868062,2022-10-18T19:15:00+00:00,Crystal Palace,Wolves,2,1,Match Finished
+868063,2022-10-19T18:30:00+00:00,Newcastle,Everton,1,0,Match Finished
+868056,2022-10-19T18:30:00+00:00,Bournemouth,Southampton,0,1,Match Finished
+868064,2022-10-19T18:30:00+00:00,Liverpool,West Ham,1,0,Match Finished
+868058,2022-10-19T18:30:00+00:00,Brentford,Chelsea,0,0,Match Finished
+868065,2022-10-19T19:15:00+00:00,Manchester United,Tottenham,2,0,Match Finished
+868060,2022-10-20T18:30:00+00:00,Fulham,Aston Villa,3,0,Match Finished
+868061,2022-10-20T19:15:00+00:00,Leicester,Leeds,2,0,Match Finished
+868071,2022-10-22T11:30:00+00:00,Nottingham Forest,Liverpool,1,0,Match Finished
+868068,2022-10-22T14:00:00+00:00,Everton,Crystal Palace,3,0,Match Finished
+868070,2022-10-22T14:00:00+00:00,Manchester City,Brighton,3,1,Match Finished
+868067,2022-10-22T16:30:00+00:00,Chelsea,Manchester United,1,1,Match Finished
+868075,2022-10-23T13:00:00+00:00,Wolves,Leicester,0,4,Match Finished
+868072,2022-10-23T13:00:00+00:00,Southampton,Arsenal,1,1,Match Finished
+868069,2022-10-23T13:00:00+00:00,Leeds,Fulham,2,3,Match Finished
+868066,2022-10-23T13:00:00+00:00,Aston Villa,Brentford,4,0,Match Finished
+868073,2022-10-23T15:30:00+00:00,Tottenham,Newcastle,1,2,Match Finished
+868074,2022-10-24T19:00:00+00:00,West Ham,Bournemouth,2,0,Match Finished
+868082,2022-10-29T11:30:00+00:00,Leicester,Manchester City,0,1,Match Finished
+868085,2022-10-29T14:00:00+00:00,Newcastle,Aston Villa,4,0,Match Finished
+868076,2022-10-29T14:00:00+00:00,Bournemouth,Tottenham,2,3,Match Finished
+868079,2022-10-29T14:00:00+00:00,Brighton,Chelsea,4,1,Match Finished
+868080,2022-10-29T14:00:00+00:00,Crystal Palace,Southampton,1,0,Match Finished
+868078,2022-10-29T14:00:00+00:00,Brentford,Wolves,1,1,Match Finished
+868081,2022-10-29T16:30:00+00:00,Fulham,Everton,0,0,Match Finished
+868083,2022-10-29T18:45:00+00:00,Liverpool,Leeds,1,2,Match Finished
+868077,2022-10-30T14:00:00+00:00,Arsenal,Nottingham Forest,5,0,Match Finished
+868084,2022-10-30T16:15:00+00:00,Manchester United,West Ham,1,0,Match Finished
+868095,2022-11-05T15:00:00+00:00,Wolves,Brighton,2,3,Match Finished
+868090,2022-11-05T15:00:00+00:00,Manchester City,Fulham,2,1,Match Finished
+868089,2022-11-05T15:00:00+00:00,Leeds,Bournemouth,4,3,Match Finished
+868091,2022-11-05T15:00:00+00:00,Nottingham Forest,Brentford,2,2,Match Finished
+868088,2022-11-05T17:30:00+00:00,Everton,Leicester,0,2,Match Finished
+868087,2022-11-06T12:00:00+00:00,Chelsea,Arsenal,0,1,Match Finished
+868092,2022-11-06T14:00:00+00:00,Southampton,Newcastle,1,4,Match Finished
+868094,2022-11-06T14:00:00+00:00,West Ham,Crystal Palace,1,2,Match Finished
+868086,2022-11-06T14:00:00+00:00,Aston Villa,Manchester United,3,1,Match Finished
+868093,2022-11-06T16:30:00+00:00,Tottenham,Liverpool,1,2,Match Finished
+868100,2022-11-12T12:30:00+00:00,Manchester City,Brentford,1,2,Match Finished
+868096,2022-11-12T15:00:00+00:00,Bournemouth,Everton,3,0,Match Finished
+868099,2022-11-12T15:00:00+00:00,Liverpool,Southampton,3,1,Match Finished
+868103,2022-11-12T15:00:00+00:00,Tottenham,Leeds,4,3,Match Finished
+868104,2022-11-12T15:00:00+00:00,West Ham,Leicester,0,2,Match Finished
+868102,2022-11-12T15:00:00+00:00,Nottingham Forest,Crystal Palace,1,0,Match Finished
+868101,2022-11-12T17:30:00+00:00,Newcastle,Chelsea,1,0,Match Finished
+868105,2022-11-12T19:45:00+00:00,Wolves,Arsenal,0,2,Match Finished
+868097,2022-11-13T14:00:00+00:00,Brighton,Aston Villa,1,2,Match Finished
+868098,2022-11-13T16:30:00+00:00,Fulham,Manchester United,1,2,Match Finished
+868108,2022-12-26T12:30:00+00:00,Brentford,Tottenham,2,2,Match Finished
+868115,2022-12-26T15:00:00+00:00,Southampton,Brighton,1,3,Match Finished
+868111,2022-12-26T15:00:00+00:00,Everton,Wolves,1,2,Match Finished
+868113,2022-12-26T15:00:00+00:00,Leicester,Newcastle,0,3,Match Finished
+868110,2022-12-26T15:00:00+00:00,Crystal Palace,Fulham,0,3,Match Finished
+868107,2022-12-26T17:30:00+00:00,Aston Villa,Liverpool,1,3,Match Finished
+868106,2022-12-26T20:00:00+00:00,Arsenal,West Ham,3,1,Match Finished
+868109,2022-12-27T17:30:00+00:00,Chelsea,Bournemouth,2,0,Match Finished
+868114,2022-12-27T20:00:00+00:00,Manchester United,Nottingham Forest,3,0,Match Finished
+868112,2022-12-28T20:00:00+00:00,Leeds,Manchester City,1,3,Match Finished
+868124,2022-12-30T19:45:00+00:00,West Ham,Brentford,0,2,Match Finished
+868119,2022-12-30T20:00:00+00:00,Liverpool,Leicester,2,1,Match Finished
+868125,2022-12-31T12:30:00+00:00,Wolves,Manchester United,0,1,Match Finished
+868121,2022-12-31T15:00:00+00:00,Newcastle,Leeds,0,0,Match Finished
+868116,2022-12-31T15:00:00+00:00,Bournemouth,Crystal Palace,0,2,Match Finished
+868118,2022-12-31T15:00:00+00:00,Fulham,Southampton,2,1,Match Finished
+868120,2022-12-31T15:00:00+00:00,Manchester City,Everton,1,1,Match Finished
+868117,2022-12-31T17:30:00+00:00,Brighton,Arsenal,2,4,Match Finished
+868123,2023-01-01T14:00:00+00:00,Tottenham,Aston Villa,0,2,Match Finished
+868122,2023-01-01T16:30:00+00:00,Nottingham Forest,Chelsea,1,1,Match Finished
+868128,2023-01-02T17:30:00+00:00,Brentford,Liverpool,3,1,Match Finished
+868126,2023-01-03T19:45:00+00:00,Arsenal,Newcastle,0,0,Match Finished
+868131,2023-01-03T19:45:00+00:00,Everton,Brighton,1,4,Match Finished
+868133,2023-01-03T19:45:00+00:00,Leicester,Fulham,0,1,Match Finished
+868134,2023-01-03T20:00:00+00:00,Manchester United,Bournemouth,3,0,Match Finished
+868135,2023-01-04T19:30:00+00:00,Southampton,Nottingham Forest,0,1,Match Finished
+868132,2023-01-04T19:45:00+00:00,Leeds,West Ham,2,2,Match Finished
+868130,2023-01-04T20:00:00+00:00,Crystal Palace,Tottenham,0,4,Match Finished
+868127,2023-01-04T20:00:00+00:00,Aston Villa,Wolves,1,1,Match Finished
+868129,2023-01-05T20:00:00+00:00,Chelsea,Manchester City,0,1,Match Finished
+868009,2023-01-12T20:00:00+00:00,Fulham,Chelsea,2,1,Match Finished
+868136,2023-01-13T20:00:00+00:00,Aston Villa,Leeds,2,1,Match Finished
+868141,2023-01-14T12:30:00+00:00,Manchester United,Manchester City,2,1,Match Finished
+868145,2023-01-14T15:00:00+00:00,Wolves,West Ham,1,0,Match Finished
+868140,2023-01-14T15:00:00+00:00,Everton,Southampton,1,2,Match Finished
+868138,2023-01-14T15:00:00+00:00,Brighton,Liverpool,3,0,Match Finished
+868143,2023-01-14T15:00:00+00:00,Nottingham Forest,Leicester,2,0,Match Finished
+868137,2023-01-14T17:30:00+00:00,Brentford,Bournemouth,2,0,Match Finished
+868142,2023-01-15T14:00:00+00:00,Newcastle,Fulham,1,0,Match Finished
+868139,2023-01-15T14:00:00+00:00,Chelsea,Crystal Palace,1,0,Match Finished
+868144,2023-01-15T16:30:00+00:00,Tottenham,Arsenal,0,2,Match Finished
+868008,2023-01-18T20:00:00+00:00,Crystal Palace,Manchester United,1,1,Match Finished
+868013,2023-01-19T20:00:00+00:00,Manchester City,Tottenham,4,2,Match Finished
+868152,2023-01-21T12:30:00+00:00,Liverpool,Chelsea,0,0,Match Finished
+868146,2023-01-21T15:00:00+00:00,Bournemouth,Nottingham Forest,1,1,Match Finished
+868154,2023-01-21T15:00:00+00:00,Southampton,Aston Villa,0,1,Match Finished
+868151,2023-01-21T15:00:00+00:00,Leicester,Brighton,2,2,Match Finished
+868155,2023-01-21T15:00:00+00:00,West Ham,Everton,2,0,Match Finished
+868148,2023-01-21T17:30:00+00:00,Crystal Palace,Newcastle,0,0,Match Finished
+868153,2023-01-22T14:00:00+00:00,Manchester City,Wolves,3,0,Match Finished
+868150,2023-01-22T14:00:00+00:00,Leeds,Brentford,0,0,Match Finished
+868147,2023-01-22T16:30:00+00:00,Arsenal,Manchester United,3,2,Match Finished
+868149,2023-01-23T20:00:00+00:00,Fulham,Tottenham,0,1,Match Finished
+868159,2023-02-03T20:00:00+00:00,Chelsea,Fulham,0,0,Match Finished
+868160,2023-02-04T12:30:00+00:00,Everton,Arsenal,1,0,Match Finished
+868161,2023-02-04T15:00:00+00:00,Manchester United,Crystal Palace,2,1,Match Finished
+868165,2023-02-04T15:00:00+00:00,Wolves,Liverpool,3,0,Match Finished
+868158,2023-02-04T15:00:00+00:00,Brighton,Bournemouth,1,0,Match Finished
+868157,2023-02-04T15:00:00+00:00,Brentford,Southampton,3,0,Match Finished
+868156,2023-02-04T15:00:00+00:00,Aston Villa,Leicester,2,4,Match Finished
+868162,2023-02-04T17:30:00+00:00,Newcastle,West Ham,1,1,Match Finished
+868163,2023-02-05T14:00:00+00:00,Nottingham Forest,Leeds,1,0,Match Finished
+868164,2023-02-05T16:30:00+00:00,Tottenham,Manchester City,1,0,Match Finished
+868021,2023-02-08T20:00:00+00:00,Manchester United,Leeds,2,2,Match Finished
+868175,2023-02-11T12:30:00+00:00,West Ham,Chelsea,1,1,Match Finished
+868169,2023-02-11T15:00:00+00:00,Fulham,Nottingham Forest,2,0,Match Finished
+868174,2023-02-11T15:00:00+00:00,Southampton,Wolves,1,2,Match Finished
+868167,2023-02-11T15:00:00+00:00,Arsenal,Brentford,1,1,Match Finished
+868171,2023-02-11T15:00:00+00:00,Leicester,Tottenham,4,1,Match Finished
+868168,2023-02-11T15:00:00+00:00,Crystal Palace,Brighton,1,1,Match Finished
+868166,2023-02-11T17:30:00+00:00,Bournemouth,Newcastle,1,1,Match Finished
+868170,2023-02-12T14:00:00+00:00,Leeds,Manchester United,0,2,Match Finished
+868173,2023-02-12T16:30:00+00:00,Manchester City,Aston Villa,3,1,Match Finished
+868172,2023-02-13T20:00:00+00:00,Liverpool,Everton,2,0,Match Finished
+868057,2023-02-15T19:30:00+00:00,Arsenal,Manchester City,1,3,Match Finished
+868176,2023-02-18T12:30:00+00:00,Aston Villa,Arsenal,2,4,Match Finished
+868185,2023-02-18T15:00:00+00:00,Wolves,Bournemouth,0,1,Match Finished
+868180,2023-02-18T15:00:00+00:00,Everton,Leeds,1,0,Match Finished
+868179,2023-02-18T15:00:00+00:00,Chelsea,Southampton,0,1,Match Finished
+868178,2023-02-18T15:00:00+00:00,Brighton,Fulham,0,1,Match Finished
+868177,2023-02-18T15:00:00+00:00,Brentford,Crystal Palace,1,1,Match Finished
+868183,2023-02-18T15:00:00+00:00,Nottingham Forest,Manchester City,1,1,Match Finished
+868182,2023-02-18T17:30:00+00:00,Newcastle,Liverpool,0,2,Match Finished
+868181,2023-02-19T14:00:00+00:00,Manchester United,Leicester,3,0,Match Finished
+868184,2023-02-19T16:30:00+00:00,Tottenham,West Ham,2,0,Match Finished
+868189,2023-02-24T20:00:00+00:00,Fulham,Wolves,1,1,Match Finished
+868188,2023-02-25T15:00:00+00:00,Everton,Aston Villa,0,2,Match Finished
+868191,2023-02-25T15:00:00+00:00,Leicester,Arsenal,0,1,Match Finished
+868195,2023-02-25T15:00:00+00:00,West Ham,Nottingham Forest,4,0,Match Finished
+868190,2023-02-25T15:00:00+00:00,Leeds,Southampton,1,0,Match Finished
+868186,2023-02-25T17:30:00+00:00,Bournemouth,Manchester City,1,4,Match Finished
+868187,2023-02-25T19:45:00+00:00,Crystal Palace,Liverpool,0,0,Match Finished
+868194,2023-02-26T13:30:00+00:00,Tottenham,Chelsea,2,0,Match Finished
+868007,2023-03-01T19:45:00+00:00,Arsenal,Everton,4,0,Match Finished
+868012,2023-03-01T20:00:00+00:00,Liverpool,Wolves,2,0,Match Finished
+868202,2023-03-04T12:30:00+00:00,Manchester City,Newcastle,2,0,Match Finished
+868205,2023-03-04T15:00:00+00:00,Wolves,Tottenham,1,0,Match Finished
+868196,2023-03-04T15:00:00+00:00,Arsenal,Bournemouth,3,2,Match Finished
+868200,2023-03-04T15:00:00+00:00,Chelsea,Leeds,1,0,Match Finished
+868199,2023-03-04T15:00:00+00:00,Brighton,West Ham,4,0,Match Finished
+868197,2023-03-04T15:00:00+00:00,Aston Villa,Crystal Palace,1,0,Match Finished
+868204,2023-03-04T17:30:00+00:00,Southampton,Leicester,1,0,Match Finished
+868203,2023-03-05T14:00:00+00:00,Nottingham Forest,Everton,2,2,Match Finished
+868201,2023-03-05T16:30:00+00:00,Liverpool,Manchester United,7,0,Match Finished
+868198,2023-03-06T20:00:00+00:00,Brentford,Fulham,3,2,Match Finished
+868206,2023-03-11T12:30:00+00:00,Bournemouth,Liverpool,1,0,Match Finished
+868208,2023-03-11T15:00:00+00:00,Everton,Brentford,1,0,Match Finished
+868211,2023-03-11T15:00:00+00:00,Leicester,Chelsea,1,3,Match Finished
+868214,2023-03-11T15:00:00+00:00,Tottenham,Nottingham Forest,3,1,Match Finished
+868210,2023-03-11T15:00:00+00:00,Leeds,Brighton,2,2,Match Finished
+868207,2023-03-11T17:30:00+00:00,Crystal Palace,Manchester City,0,1,Match Finished
+868212,2023-03-12T14:00:00+00:00,Manchester United,Southampton,0,0,Match Finished
+868209,2023-03-12T14:00:00+00:00,Fulham,Arsenal,0,3,Match Finished
+868215,2023-03-12T14:00:00+00:00,West Ham,Aston Villa,1,1,Match Finished
+868213,2023-03-12T16:30:00+00:00,Newcastle,Wolves,2,1,Match Finished
+868014,2023-03-15T19:30:00+00:00,Southampton,Brentford,0,2,Match Finished
+868018,2023-03-15T19:30:00+00:00,Brighton,Crystal Palace,1,0,Match Finished
+868223,2023-03-17T20:00:00+00:00,Nottingham Forest,Newcastle,1,2,Match Finished
+868225,2023-03-18T15:00:00+00:00,Wolves,Leeds,2,4,Match Finished
+868224,2023-03-18T15:00:00+00:00,Southampton,Tottenham,3,3,Match Finished
+868218,2023-03-18T15:00:00+00:00,Brentford,Leicester,1,1,Match Finished
+868217,2023-03-18T15:00:00+00:00,Aston Villa,Bournemouth,3,0,Match Finished
+868220,2023-03-18T17:30:00+00:00,Chelsea,Everton,2,2,Match Finished
+868216,2023-03-19T14:00:00+00:00,Arsenal,Crystal Palace,4,1,Match Finished
+868232,2023-04-01T11:30:00+00:00,Manchester City,Liverpool,4,1,Match Finished
+868226,2023-04-01T14:00:00+00:00,Bournemouth,Fulham,2,1,Match Finished
+868227,2023-04-01T14:00:00+00:00,Arsenal,Leeds,4,1,Match Finished
+868228,2023-04-01T14:00:00+00:00,Brighton,Brentford,3,3,Match Finished
+868230,2023-04-01T14:00:00+00:00,Crystal Palace,Leicester,2,1,Match Finished
+868234,2023-04-01T14:00:00+00:00,Nottingham Forest,Wolves,1,1,Match Finished
+868229,2023-04-01T16:30:00+00:00,Chelsea,Aston Villa,0,2,Match Finished
+868235,2023-04-02T13:00:00+00:00,West Ham,Southampton,1,0,Match Finished
+868233,2023-04-02T15:30:00+00:00,Newcastle,Manchester United,2,0,Match Finished
+868231,2023-04-03T19:00:00+00:00,Everton,Tottenham,1,1,Match Finished
+868006,2023-04-04T18:45:00+00:00,Bournemouth,Brighton,0,2,Match Finished
+868011,2023-04-04T18:45:00+00:00,Leicester,Aston Villa,1,2,Match Finished
+868010,2023-04-04T18:45:00+00:00,Leeds,Nottingham Forest,2,1,Match Finished
+868019,2023-04-04T19:00:00+00:00,Chelsea,Liverpool,0,0,Match Finished
+868192,2023-04-05T19:00:00+00:00,Manchester United,Brentford,1,0,Match Finished
+868015,2023-04-05T19:00:00+00:00,West Ham,Newcastle,1,5,Match Finished
+868242,2023-04-08T11:30:00+00:00,Manchester United,Everton,2,0,Match Finished
+868238,2023-04-08T14:00:00+00:00,Fulham,West Ham,0,1,Match Finished
+868245,2023-04-08T14:00:00+00:00,Wolves,Chelsea,1,0,Match Finished
+868240,2023-04-08T14:00:00+00:00,Leicester,Bournemouth,0,1,Match Finished
+868244,2023-04-08T14:00:00+00:00,Tottenham,Brighton,2,1,Match Finished
+868237,2023-04-08T14:00:00+00:00,Brentford,Newcastle,1,2,Match Finished
+868236,2023-04-08T14:00:00+00:00,Aston Villa,Nottingham Forest,2,0,Match Finished
+868243,2023-04-08T16:30:00+00:00,Southampton,Manchester City,1,4,Match Finished
+868239,2023-04-09T13:00:00+00:00,Leeds,Crystal Palace,1,5,Match Finished
+868241,2023-04-09T15:30:00+00:00,Liverpool,Arsenal,2,2,Match Finished
+868246,2023-04-15T11:30:00+00:00,Aston Villa,Newcastle,3,0,Match Finished
+868255,2023-04-15T14:00:00+00:00,Wolves,Brentford,2,0,Match Finished
+868252,2023-04-15T14:00:00+00:00,Southampton,Crystal Palace,0,2,Match Finished
+868248,2023-04-15T14:00:00+00:00,Everton,Fulham,1,3,Match Finished
+868247,2023-04-15T14:00:00+00:00,Chelsea,Brighton,1,2,Match Finished
+868253,2023-04-15T14:15:00+00:00,Tottenham,Bournemouth,2,3,Match Finished
+868250,2023-04-15T16:30:00+00:00,Manchester City,Leicester,3,1,Match Finished
+868254,2023-04-16T13:00:00+00:00,West Ham,Arsenal,2,2,Match Finished
+868251,2023-04-16T15:30:00+00:00,Nottingham Forest,Manchester United,0,2,Match Finished
+868249,2023-04-17T19:00:00+00:00,Leeds,Liverpool,1,6,Match Finished
+868257,2023-04-21T19:00:00+00:00,Arsenal,Southampton,3,3,Match Finished
+868261,2023-04-22T11:30:00+00:00,Fulham,Leeds,2,1,Match Finished
+868263,2023-04-22T14:00:00+00:00,Liverpool,Nottingham Forest,3,2,Match Finished
+868262,2023-04-22T14:00:00+00:00,Leicester,Wolves,2,1,Match Finished
+868260,2023-04-22T14:00:00+00:00,Crystal Palace,Everton,0,0,Match Finished
+868258,2023-04-22T14:00:00+00:00,Brentford,Aston Villa,1,1,Match Finished
+868265,2023-04-23T13:00:00+00:00,Newcastle,Tottenham,6,1,Match Finished
+868256,2023-04-23T13:00:00+00:00,Bournemouth,West Ham,0,4,Match Finished
+868271,2023-04-25T18:30:00+00:00,Wolves,Crystal Palace,2,0,Match Finished
+868272,2023-04-25T18:45:00+00:00,Aston Villa,Fulham,1,0,Match Finished
+868267,2023-04-25T19:00:00+00:00,Leeds,Leicester,1,1,Match Finished
+868268,2023-04-26T18:30:00+00:00,Nottingham Forest,Brighton,3,1,Match Finished
+868270,2023-04-26T18:45:00+00:00,West Ham,Liverpool,1,2,Match Finished
+868273,2023-04-26T18:45:00+00:00,Chelsea,Brentford,0,2,Match Finished
+868275,2023-04-26T19:00:00+00:00,Manchester City,Arsenal,4,1,Match Finished
+868274,2023-04-27T18:45:00+00:00,Southampton,Bournemouth,0,1,Match Finished
+868266,2023-04-27T18:45:00+00:00,Everton,Newcastle,1,4,Match Finished
+868269,2023-04-27T19:15:00+00:00,Tottenham,Manchester United,2,2,Match Finished
+868280,2023-04-29T11:30:00+00:00,Crystal Palace,West Ham,4,3,Match Finished
+868279,2023-04-29T14:00:00+00:00,Brighton,Wolves,6,0,Match Finished
+868278,2023-04-29T14:00:00+00:00,Brentford,Nottingham Forest,2,1,Match Finished
+868284,2023-04-30T13:00:00+00:00,Manchester United,Aston Villa,1,0,Match Finished
+868285,2023-04-30T13:00:00+00:00,Newcastle,Southampton,3,1,Match Finished
+868276,2023-04-30T13:00:00+00:00,Bournemouth,Leeds,4,1,Match Finished
+868281,2023-04-30T13:00:00+00:00,Fulham,Manchester City,1,2,Match Finished
+868283,2023-04-30T15:30:00+00:00,Liverpool,Tottenham,4,3,Match Finished
+868282,2023-05-01T19:00:00+00:00,Leicester,Everton,2,2,Match Finished
+868277,2023-05-02T19:00:00+00:00,Arsenal,Chelsea,3,1,Match Finished
+868221,2023-05-03T19:00:00+00:00,Liverpool,Fulham,1,0,Match Finished
+868222,2023-05-03T19:00:00+00:00,Manchester City,West Ham,3,0,Match Finished
+868219,2023-05-04T19:00:00+00:00,Brighton,Manchester United,1,0,Match Finished
+868286,2023-05-06T14:00:00+00:00,Bournemouth,Chelsea,1,3,Match Finished
+868295,2023-05-06T14:00:00+00:00,Wolves,Aston Villa,1,0,Match Finished
+868293,2023-05-06T14:00:00+00:00,Tottenham,Crystal Palace,1,0,Match Finished
+868290,2023-05-06T14:00:00+00:00,Manchester City,Leeds,2,1,Match Finished
+868289,2023-05-06T16:30:00+00:00,Liverpool,Brentford,1,0,Match Finished
+868291,2023-05-07T15:30:00+00:00,Newcastle,Arsenal,0,2,Match Finished
+868294,2023-05-07T18:00:00+00:00,West Ham,Manchester United,1,0,Match Finished
+868288,2023-05-08T14:00:00+00:00,Fulham,Leicester,5,3,Match Finished
+868287,2023-05-08T16:30:00+00:00,Brighton,Everton,1,5,Match Finished
+868292,2023-05-08T19:00:00+00:00,Nottingham Forest,Southampton,4,3,Match Finished
+868302,2023-05-13T11:30:00+00:00,Leeds,Newcastle,2,2,Match Finished
+868304,2023-05-13T14:00:00+00:00,Manchester United,Wolves,2,0,Match Finished
+868305,2023-05-13T14:00:00+00:00,Southampton,Fulham,0,2,Match Finished
+868299,2023-05-13T14:00:00+00:00,Chelsea,Nottingham Forest,2,2,Match Finished
+868300,2023-05-13T14:00:00+00:00,Crystal Palace,Bournemouth,2,0,Match Finished
+868297,2023-05-13T14:00:00+00:00,Aston Villa,Tottenham,2,1,Match Finished
+868301,2023-05-14T13:00:00+00:00,Everton,Manchester City,0,3,Match Finished
+868298,2023-05-14T13:00:00+00:00,Brentford,West Ham,2,0,Match Finished
+868296,2023-05-14T15:30:00+00:00,Arsenal,Brighton,0,3,Match Finished
+868303,2023-05-15T19:00:00+00:00,Leicester,Liverpool,0,3,Match Finished
+868193,2023-05-18T18:30:00+00:00,Newcastle,Brighton,4,1,Match Finished
+868313,2023-05-20T11:30:00+00:00,Tottenham,Brentford,1,3,Match Finished
+868306,2023-05-20T14:00:00+00:00,Bournemouth,Manchester United,0,1,Match Finished
+868308,2023-05-20T14:00:00+00:00,Fulham,Crystal Palace,2,2,Match Finished
+868315,2023-05-20T14:00:00+00:00,Wolves,Everton,1,1,Match Finished
+868309,2023-05-20T14:00:00+00:00,Liverpool,Aston Villa,1,1,Match Finished
+868312,2023-05-20T16:30:00+00:00,Nottingham Forest,Arsenal,1,0,Match Finished
+868314,2023-05-21T12:30:00+00:00,West Ham,Leeds,3,1,Match Finished
+868307,2023-05-21T13:00:00+00:00,Brighton,Southampton,3,1,Match Finished
+868310,2023-05-21T15:00:00+00:00,Manchester City,Chelsea,1,0,Match Finished
+868311,2023-05-22T19:00:00+00:00,Newcastle,Leicester,0,0,Match Finished
+868259,2023-05-24T19:00:00+00:00,Brighton,Manchester City,1,1,Match Finished
+868264,2023-05-25T19:00:00+00:00,Manchester United,Chelsea,4,1,Match Finished
+868324,2023-05-28T15:30:00+00:00,Manchester United,Fulham,2,1,Match Finished
+868325,2023-05-28T15:30:00+00:00,Southampton,Liverpool,4,4,Match Finished
+868316,2023-05-28T15:30:00+00:00,Arsenal,Wolves,5,0,Match Finished
+868321,2023-05-28T15:30:00+00:00,Everton,Bournemouth,1,0,Match Finished
+868323,2023-05-28T15:30:00+00:00,Leicester,West Ham,2,1,Match Finished
+868319,2023-05-28T15:30:00+00:00,Chelsea,Newcastle,1,1,Match Finished
+868320,2023-05-28T15:30:00+00:00,Crystal Palace,Nottingham Forest,1,1,Match Finished
+868318,2023-05-28T15:30:00+00:00,Brentford,Manchester City,1,0,Match Finished
+868322,2023-05-28T15:30:00+00:00,Leeds,Tottenham,1,4,Match Finished
+868317,2023-05-28T15:30:00+00:00,Aston Villa,Brighton,2,1,Match Finished
